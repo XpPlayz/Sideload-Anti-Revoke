@@ -1,0 +1,2 @@
+@@||register.appattest.apple.com^$important
+@@||app.localhost.direct^$important
